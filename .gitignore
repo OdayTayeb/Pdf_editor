@@ -1,0 +1,4 @@
+.idea/*
+pdfs/*
+__pycache__/*
+pdf_data/*
