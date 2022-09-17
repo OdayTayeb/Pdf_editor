@@ -1,0 +1,3 @@
+# Pdf_editor
+
+it is a Computer vision project that enables you to change text color, background color in a pdf or move inside the pdf using your eyes, etc...
